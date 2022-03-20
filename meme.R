@@ -39,9 +39,9 @@ third_text <- image_blank(width = 500,
                  font = "Impact",
                  gravity = "center")
 
+
 first_row <- c(fresh_potato, first_text) %>%
   image_append()
-
 second_row <- c(sitting_potato, second_text) %>%
   image_append()
 
@@ -51,6 +51,7 @@ third_row <- c(rotten_potato, third_text) %>%
 c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
-c(first_row, second_row, third_row) %>%
+meme <- c(first_row, second_row, third_row) %>%
   image_write(meme, "my_meme.png")
+
 
