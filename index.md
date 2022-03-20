@@ -1,3 +1,3 @@
-![]("my_meme.png")
+![meme]("my_meme.png")
 
 # Motivation
