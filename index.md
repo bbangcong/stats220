@@ -1,3 +1,5 @@
 ![]("my_meme.png")
 
-## Motivation
+## **Motivation**
+The motivation of this meme is reflected of some, if not many, during Covid-19.
+
