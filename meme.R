@@ -1,6 +1,5 @@
 library(magick)
 
-
 # images 2020-2022
 fresh_potato <- image_read("https://cdn.pixabay.com/photo/2016/08/11/08/49/potatoes-1585075_1280.jpg") %>%
   image_scale(500)
@@ -44,7 +43,6 @@ first_row <- c(fresh_potato, first_text) %>%
   image_append()
 second_row <- c(sitting_potato, second_text) %>%
   image_append()
-
 third_row <- c(rotten_potato, third_text) %>%
   image_append()
 
@@ -52,6 +50,7 @@ c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
 meme <- c(first_row, second_row, third_row) %>%
-  image_write(meme, "my_meme.png")
+  image_append(stack = TRUE)
 
+  image_write(meme, "my_meme.png")
 
