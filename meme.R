@@ -46,12 +46,9 @@ second_row <- c(sitting_potato, second_text) %>%
 third_row <- c(rotten_potato, third_text) %>%
   image_append() %>%
 
-c(first_row, second_row, third_row) %>%
+meme <- c(first_row, second_row, third_row) %>%
   image_append(stack = TRUE)
 
-# print image
-meme.R <- c(first_row, second_row, third_row)
-
-image_write(meme.R, "my_meme.png")
+image_write(meme, "my_meme.png")
 
 
