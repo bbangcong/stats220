@@ -3,7 +3,7 @@
 ### **MEME**
 I made this meme using the [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) R package.
 
-![](my_meme.png)
+![]("my_meme.png")
 
 
 #### My motivation for this meme:
