@@ -15,4 +15,4 @@ Hello! This repo is for **STATISTICS 220**.
 
 Check out my website: https://bbangcong.github/stats220/
 
-![](https://tenor.com/en-GB/view/mountain-reflection-water-waterreflection-mountainreflection-gif-5076994)
+![](https://media.tenor.com/BJUu-49-dL4AAAAC/mountain-reflection.gif)
