@@ -1,10 +1,16 @@
 # stats220
 
-Hello! This repo is for *STATISTICS 220*.
+Hello! This repo is for **STATISTICS 220**.
 
-### Just trying to fill up the page
- - Check this out
- - Here's another one
+## About Me
+ - I'm majoring in *Bachelor of Science (BSc)* majoring in Geographic Information Science.
+ - Second Year
+ 
+ ## My Interests
+ 1. Collecting rocks, crystals etc.
+ 2. Films and TV series
+ 3. Art
+ 
 
 
 Check out my website: https://bbangcong.github/stats220/
