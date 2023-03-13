@@ -13,6 +13,6 @@ Hello! This repo is for **STATISTICS 220**.
  
 
 
-Check out my website: https://bbangcong.github.io/stats220/
+Check out my website: https://bbangcong.github.io/
 
 ![](https://media.tenor.com/BJUu-49-dL4AAAAC/mountain-reflection.gif)
