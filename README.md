@@ -3,13 +3,13 @@
 Hello! This repo is for **STATISTICS 220**.
 
 ### About Me
- - I'm majoring in *Bachelor of Science (BSc)* majoring in Geographic Information Science.
- - Second Year
+ 1. I'm majoring in *Bachelor of Science (BSc)* majoring in Geographic Information Science.
+ 2. I like fossicking, art, architecture and films/series. 
  
- ### My Interests
- 1. Collecting rocks, crystals etc.
- 2. Films and TV series
- 3. Art
+ ### On Github
+ - Follow 
+ - Watch
+ - ⭐
  
 
 
