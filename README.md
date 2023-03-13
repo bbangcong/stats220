@@ -3,7 +3,7 @@
 Hello! This repo is for **STATISTICS 220**.
 
 ### About Me
- 1. I'm studying *Bachelor of Science (BSc)*, majoring in Geographic Information Science.
+ 1. I'm a *Bachelor of Science (BSc)*, majoring in Geographic Information Science.
  2. I like fossicking, art, architecture and films/series. 
  
  ### On Github
